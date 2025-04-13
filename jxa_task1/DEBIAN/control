@@ -1,0 +1,9 @@
+Package: jxatask
+Version: 1.0-1
+Section: base
+Priority: optional
+Architecture: amd64
+Depends: libc6
+Maintainer: JXA <985028882@qq.com>
+Description: a simple task
+ 
